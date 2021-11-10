@@ -1,7 +1,7 @@
 # Driver-Drowsiness-Detection
 Drowsiness detection is a safety technology that can prevent accidents that are caused by drivers who fell asleep while driving. This technology will alert the driver when drowsiness is detected. 😴 🚨
 
-<img align="right" alt="GIF" height=360 src="https://github.com/rudrabarad/AR-Watch-Catalogue/blob/main/watch.gif" />
+<img align="right" alt="GIF" height=200 src="https://github.com/rudrabarad/Driver-Drowsiness-Detection/blob/main/driver.gif" />
 
 ## Contents of the Repository
 - [CNN Approach](https://github.com/rudrabarad/Driver-Drowsiness-Detection/tree/main/DDDS_CNN)
