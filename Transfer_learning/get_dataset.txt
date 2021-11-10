@@ -1,0 +1,4 @@
+Head to the given website to explore the eyes dataset. Samples of the dataset can be seen on the site itself.
+Download the version of the dataset that is appropriate for you.
+
+http://mrl.cs.vsb.cz/eyedataset
