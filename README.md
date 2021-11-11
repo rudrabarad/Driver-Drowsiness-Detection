@@ -41,6 +41,8 @@ You can clone this repository using command: ``git clone https://github.com/rudr
 - For CNN run ``DDDS_CNN/main_capture.py``
 - For Transfer Learning run ``Transfer_learning/tl_capture.py``
 
+> **Note:** Currently there is no **Models** folder in both CNN & Transfer folders but it will be created as soon as user executes model training file
+
 ## Results
 Approach| Training Accuracy | Validation Accuracy
 ------------ | ------------------|--------------------
