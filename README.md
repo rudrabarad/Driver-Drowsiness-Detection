@@ -8,8 +8,10 @@ Drowsiness detection is a safety technology that can prevent accidents that are 
 - [Transfer Learning Approach](https://github.com/rudrabarad/Driver-Drowsiness-Detection/tree/main/Transfer_learning)
 - [Readme](https://github.com/rudrabarad/Driver-Drowsiness-Detection#readme)
 - [Dataset](https://github.com/rudrabarad/Driver-Drowsiness-Detection#dataset)
-- [Documentation/Report](https://github.com/rudrabarad/Driver-Drowsiness-Detection#documentation)
-- [Presentation](https://github.com/rudrabarad/Driver-Drowsiness-Detection/blob/main/PRESENTATION.pptx)
+- [Required Libraries](https://github.com/rudrabarad/Driver-Drowsiness-Detection#required-libraries)
+- [Installation Setup](https://github.com/rudrabarad/Driver-Drowsiness-Detection#installation-setup)
+- [Results](https://github.com/rudrabarad/Driver-Drowsiness-Detection#results)
+- [Research Article](https://github.com/rudrabarad/Driver-Drowsiness-Detection/blob/main/Research%20Article.docx)
 - [Video Demonstration](https://github.com/rudrabarad/Driver-Drowsiness-Detection#video)
 
 ## Dataset
@@ -45,13 +47,8 @@ Approach| Training Accuracy | Validation Accuracy
 CNN | 99.01% | 95.19%
 Transfer Learning | 82% |  79%
 
-
-
-## Documentation
-For detailed documentation and roadmap of our project please check the [Report](https://github.com/rudrabarad/Driver-Drowsiness-Detection/blob/main/REPORT.docx) of this repository.
-
 ## Video
-For viewing or downloading video click [here]() 🎬
+For viewing or downloading video click [here](https://github.com/rudrabarad/Driver-Drowsiness-Detection/blob/main/Video_Demonstration.mkv) 🎬
 
 ## Facing any issues???
 
